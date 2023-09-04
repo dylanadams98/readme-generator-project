@@ -1,3 +1,5 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+This application is a simple tool to help generate a suitable readme file for any given project. Executable from the command line, this tool makes the process quick and easy, and includes easy to configure logos and helpful pre-set answers.
+
+Requires Inquirer package installed.
