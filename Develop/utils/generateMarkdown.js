@@ -47,17 +47,17 @@ ${data.description}
 
 ## Contents
 
--> Dependencies
+-> [Dependencies](##dependencies)
 
--> Installation
+-> [Installation] (##installation)
 
--> Testing
+-> [Testing] (##testing)
 
--> Usage
+-> [Usage] (##usage)
 
--> Contributions
+-> [Contributions] (##contributions)
 
--> Contact the Developer
+-> [Contact the Developer]  (##contact)
 
 ## Dependencies
 
@@ -87,7 +87,7 @@ ${data.contribution}
 
 ## Contact the Developer
 
-You can find more of my work on my GitHub profile here: ${data.user}
+You can find more of my work on my GitHub profile here: [Github](https://github.com/${data.user})
 
 And you can contact me with any questions or requests here: ${data.email}
 `;
